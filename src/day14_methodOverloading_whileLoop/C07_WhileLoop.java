@@ -55,7 +55,6 @@ public class C07_WhileLoop {
             }
             denemeSayisi++;
         }
-
         System.out.println("Tebrikler! " + denemeSayisi + ". denemede sifreniz basarili ile kaydedildi");
     }
 }
