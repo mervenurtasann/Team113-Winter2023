@@ -44,7 +44,7 @@ public class C03_LinkedListSoru {
             }
 
         }
-        System.out.println("Not ortolamasi : " + notOrtalamasi +
+        System.out.println("Not ortalamasi : " + notOrtalamasi +
                 "\nOgrenci sayisi : " + notListesi.size() +
                 "\nortalama altindaki ogrenci sayisi :" + ortalamaAltindakiOgrenciSayisi +
                 "\nortalamanin 10 puan alt ve ustunde olan ogrenci sayisi :" + ortalama10PuanAltUstOgrenciSayisi);
