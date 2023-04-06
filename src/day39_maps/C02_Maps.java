@@ -25,11 +25,6 @@ public class C02_Maps {
         // basta sira no olacak sekilde, her satirda bir ismin olacagi
         // bir liste seklinde yazdirin
 
-        // 1- value'lari ayri bir collection olarak kaydedelim
-        // 2- her bir value'u split ile bir array'e donusturelim
-        // 3- array'den sube'yi kontrol edip
-        //    eger istenen sube ise ogrencinin sinif isim ve soyismini yazdiralim
-
         MapMethodDepo.subeOgrenciListesiYazdir(okulMap, "m");
 
     }
