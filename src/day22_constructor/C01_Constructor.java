@@ -11,7 +11,7 @@ public class C01_Constructor {
     public static void main(String[] args) {
 
         /*
-            Bir obje ancak bir olusturulabilir.
+            Bir obje ancak bir class'dan olusturulabilir.
             Bir objeyi olusturdugumuz class, ayni zamanda o objenin data turudur.
 
             Her obje olusturuldugu class'in ozelliklerini tasir
