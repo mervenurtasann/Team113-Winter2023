@@ -4,7 +4,7 @@ public class C03_hemsireRunner {
     public static void main(String[] args) {
         /*
             bir obje olustururken parametre olarak hic bir deger girilmezse
-            olusturulan obje, olusturuldugu class'daki variable'lara aranan degerleri alir
+            olusturulan obje, olusturuldugu class'daki variable'lara atanan degerleri alir
             eger obje olusturulan class'da deger atamasi yoksa, Java default degerleri atar
          */
 
